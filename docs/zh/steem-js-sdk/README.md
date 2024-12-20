@@ -1,4 +1,4 @@
-# Documentation
+# Steem JS SDK
 
 - [Install](#install)
 - [Browser](#browser)
